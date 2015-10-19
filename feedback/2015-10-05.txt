@@ -1,0 +1,83 @@
+
+
+Machbarkeitsanalyse
+
+-------------------
+
+*) Laserwürfel
+
+   -) Wir haben kein Budget und geben nur Geld für Webspace und Domain aus.
+
+   -) Anforderungen (grob aufgelistet)
+
+   -) Unity Vorteile: Alle Features und Komponenten die wir benötigen sind bereits vorhanden.
+
+   -) Diskrepanz Budget: Das Team muss lernen wie man mit Unity umgeht und welche Funktionen es hat. Gesamtkosten von 20$/Monat.
+
+   -) Deployment mit Qt ist recht komplex und wir könnten Schwierigkeiten dabei haben.
+
+   -) Unity: Zeitkosten für Lernaufwand und Lizenskosten.
+
+   Risiken
+
+Wir schaffen es nicht mit Unity 3D umzugehen.
+
+Technische Machbarkeit
+
+Unity 3D ist (noch) nicht für Linux, welches zwei aus dem Team verwenden, verfügbar.
+
+ 
+
+*) Die Machbarkeit beinhält nichts außer Programmiersprachen? (Hauptteil ja - sonst hat es keine Komponenten? Keine Datenbanken, keine Geräte, etc.)
+
+*) Es gibt keine Infos zur Machbarkeit der automatisch generierten Level?
+
+ 
+
+=========================================
+
+ 
+
+Requirements Analyse
+
+--------------------
+
+*) von uns selbst erstellt
+
+*) story: nicht smart
+
+*) Must-Have: nur punkte verbinden?
+
+*) F-20 wie sind sie sonst erstellt?
+
+1-2: was wurde aus Bezeichnungn Muss, Soll, Nicht?
+
+Soundtrack: damit ich entspannter bin?
+
+Tastatur UND maus : ODER maus?
+
+Englisch: als deutscher nicht?
+
+Userstories: wie Zum Beispiel - das muss fix sein
+
+Ein Würfel soll wie ein Planet aussehen aber Texturen sind nur optionale Ziele?
+
+*) Ich kann meinen Fortschritt niemals speichern oder wieder aufnehmen
+
+*) Ich möchte mit einem Würfel präsentiert werden
+
+*) Es steht nirgends WIE ich den Würfel steuere
+
+*) keine Highscores
+
+*) keine Online Vergleiche
+
+*) es gibt keine Zeit, Es gibt keine Pause
+
+*) es macht keinen Unterschied wie schnell oder gut ich den Würfel löse
+
+*) es gibt den Hinweis auf "eine Story" bei der nicht erklärt wird wie sie funktioniert, interagiert, etc.
+
+*) Funktionen des Editors sind nicht formuliert (muss ich per Hand ein XML erstellen?)
+
+*) "leicht installieren und starten" anderer Level

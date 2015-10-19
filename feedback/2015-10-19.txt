@@ -1,0 +1,8 @@
+Machbarkeit und Requirement
+===========================
+
+Anstelle von "Wir machen", "das Programm"
+
+Nicht "es kann Mangelhaft sein", sondern "um diese Qualität zu haben, brauchen wir ..."
+
+"Der User muss Python installieren" ist ungültig, wir müssten einen Installer anbieten

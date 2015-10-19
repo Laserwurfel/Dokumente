@@ -1,0 +1,32 @@
+Machbarkeitsanalyse
+===================
+
+Überblick ist da
+Auflistung ist auch gut
+Was Spieler machen können -> Requirements
+Definieren, dass wir kein Budget haben
+
+"Das Spiel soll flüssig laufen ..."
+Weniger interpretation lassen
+zB "Mindestens 30 FPS"
+
+Alter vom User als Zielgruppe erklären
+
+Wording: generierte Level nicht für Story gedacht
+
+Für jede Option: Kann Requirement abdecken, weil ...
+Benötigt Requirementsanalyse
+
+"Wenn Unity nicht mehr funktioniert ..." kann man nicht schreiben
+Sagt nichts aus, weg damit
+Risiko ist proprietäres Format!
+
+Programmiersprachen Zeitkosten schätzen
+Einarbeitungszeit, Umsetzungsgeschwindigkeit (zumindest Skala)
+
+Requirementsanalyse
+===================
+
+Was muss ich machen, damit das Spiel da ist.
+
+Pflicht/Optional eventuell definieren.
