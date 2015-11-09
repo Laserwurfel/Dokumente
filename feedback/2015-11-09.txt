@@ -1,0 +1,13 @@
+Laserwürfel
+------------
+
+*) Versatz in Kopfzeile
+*) Kasper ist Projektcoach?
+*) Kostenfrage mit BAY klären - darf das sein?
+
+*) als Spieler möchte ich mit einem Würfel präsentiert werden
+*) relativ moderne Grafikkarten
+*) bemerkbare Verzögerung
+*) Wasserfall Dokumente wegfallen => unnötig, dafür werden
+
+alle Scrum Dokumente erwartet
