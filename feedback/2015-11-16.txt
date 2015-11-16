@@ -1,0 +1,23 @@
+"von allen TMs als ausreichend" geht nicht
+related tasks
+soundtrack aufteilen (genre/erstellen/implementieren)
+Klassendiagramm, Interfaces
+Englisch ist keine eigene US, kommt nur in anderen vor
+Tutorial: was sind Spielelemente
+Cross-Plattform: Testen wäre eine eigene US, ansonsten wie Englisch
+Keybindings von anfang an überall einbauen
+Optionen klarer festlegen (Horizontal slider für sound zb)
+"Als Spieler wird mir ein Würfel präsentiert"!!!
+Arstyle US mit Soundtrack
+Würfel Dateiformat in US durchdenken (evt.per Hand auf Papier)
+Hindernisse: Verhalten definieren
+Laser dürfen sich nicht überkreuzen
+Zeitlimit keine eigene US
+Story: Wortlimit, etc
+Storyboard US
+Levelauswahl vs Levelwahl?
+
+Productbacklog nur grob
+In Sprint 0: Grundlegenden Ideen, grobe Struktur,
+    Klassendiagramm, Artstyle,
+Schnittstellen
