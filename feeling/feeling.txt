@@ -1,0 +1,34 @@
+Generelles Feeling
+==================
+
+Sci-Fi
+
+Gemütlich, Angenehm, Kein Stress
+
+Story
+-----
+
+Wiederaufbau nach Revolution
+
+Laser ist die eigene Quelle durch Zeitreise
+
+Dialoge mit Einheimischen über vorherige Regierung
+Dialoge haben Widersprüche, decken Teile der Story auf
+
+Sound
+-----
+
+Ruhig, Angenehm
+Aufbauend, Motivierend an wichtigen Punkten
+Mysteriös zwischendurch und am Ende
+Upbeat, simpel für Tutorials und Menüs
+
+Artstyle
+--------
+
+Simpel, Minimalistisch
+Helle, matte Farben
+Möglichst keine Texturen
+
+Kein Tilt Shift; durchgehender Fokus
+Sonne als einzige Lichtquelle, Laser "glühen"
