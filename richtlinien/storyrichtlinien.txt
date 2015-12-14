@@ -52,5 +52,16 @@ Die Geschichte hat einen Spannungsbogen, dessen Höhepunkt sich am Ende befindet
 Beispieldialog
 --------------
 
-*Kommunikationsgerätsgeräusche*
+*Verbindungsaufbaugeräusche*
+
+"Hello, is this planet Bzargnbularbz?"
+"Yes, that's right. Are you here to fix our electricity?"
+"Yeah, I'm the engineer."
+"It's about time you got here. The backup battery is running out. And half of our food already spoiled, because we couldn't refrigerate it all."
+I wonder what the people eat in this sector of the galaxy. All I see are sheep. Maybe fruit grows on the trees? I should ask him.
+"Sir, I've been wondering, are there any fruits on these trees?"
+"What? Yes there are, but they are extremely poisonous. All the trees here are actually an infestation, one we couldn't get rid of yet. It was the first and last biological attack we suffered from."
+Who was the attacker? The govornment? Well, it doesn't really concern me, so I should just get to work.
+
+ 
 
