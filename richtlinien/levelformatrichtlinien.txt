@@ -1,0 +1,103 @@
+Grober Überblick
+----------------
+
+Das Level wird in der Definition in drei Teile geteilt. Im ersten Teil werden
+alle Metainformationen, im zweiten Teil wird das Aussehen und im dritten die
+Logik festgelegt.
+
+Metainformationen
+-----------------
+
+Diese werden als Key-Value Paare angegeben.
+
+TODO Syntax: NAME ": " WERT
+TODO standard keys: title, soundtrack, parents?
+
+Aussehen
+--------
+
+Beschrieben werden in diesem Teil die Dekorationen. Die Art der Dekoration wird
+durch ein Zeichenpaar festgelegt, und die Position direkt auf einem
+aufgeklappten ASCII-Würfel. Folgende Dekorationen sind definiert:
+
+``[]``
+    Haus
+
+``@@``
+    Baum
+
+``%%``
+    Tierherde
+
+``##``
+    Getreidefeld
+
+Der Würfel liegt im Querformat um Zeilen zu sparen. Jede Fläche hat 9x9
+Positionen für Dekorationen, wobei jede Spalte 2 Zellen breit ist, weil eine
+Zelle circa doppelt so hoch wie breit ist. Um die Fläche herum werden die
+Kanten mit Pipe (``|``) und zwei Bindestrichen (``--``) gezeichnet.
+Verdbindungspunkte werden mit einem großen ``O`` oder, bei Punkten in der mitte
+einer Spalte, mit Klammern ``()`` dargestellt.
+
+Aufbau
+------
+
+Beschrieben werden in diesem Teil
+
+- Deaktivierte Verbindungspunkte
+- Fixe Verbindungen
+- Hindernisse
+
+Jeder Verbindungspunkt (kurz Punkt) ist eindeutig durch seine anliegenden
+Flächen ansprechbar. Die Flächen werden in der Reihenfolge Front/Back,
+Left/Right, Up/Down angegeben und mit Abstand getrennt.
+
+TODO syntax für ausschalten und verbinden
+
+Beispiel
+--------
+
+Der genaue Aufbau des Würfels wo die Flächen benannt sind.::
+
+                     O--------()--------O
+                     |                  |
+                     |                  |
+                     |                  |
+                     |                  |
+                     O        up        O
+                     |                  |
+                     |                  |
+                     |                  |
+                     |                  |
+  O--------()--------O--------()--------O--------()--------O--------()--------O
+  |                  |                  |                  |                  |
+  |                  |                  |                  |                  |
+  |                  |                  |                  |                  |
+  |                  |                  |                  |                  |
+  O       left       O      front       O      right       O       back       O
+  |                  |                  |                  |                  |
+  |                  |                  |                  |                  |
+  |                  |                  |                  |                  |
+  |                  |                  |                  |                  |
+  O--------()--------O--------()--------O--------()--------O--------()--------O
+                     |                  |
+                     |                  |
+                     |                  |
+                     |                  |
+                     O       down       O
+                     |                  |
+                     |                  |
+                     |                  |
+                     |                  |
+                     O--------()--------O
+
+Alle Punkte auf der "Front" Fläche::
+
+  front left up
+  front up
+  front right up
+  front left
+  front right
+  front left down
+  front down
+  front right down
