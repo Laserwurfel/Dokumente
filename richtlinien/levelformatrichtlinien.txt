@@ -8,10 +8,24 @@ Logik festgelegt.
 Metainformationen
 -----------------
 
-Diese werden als Key-Value Paare angegeben.
+Diese werden als Key-Value Paare angegeben. Der Key wird von der Value durch
+einen Doppelpunkt (``:``) getrennt. Die Value kann einer der folgenden
+Datentypen sein:
 
-TODO Syntax: NAME ": " WERT
-TODO standard keys: title, soundtrack, parents?
+``string``
+    Beginnt und endet mit einem Anführungszeichen (``"``)
+
+``path``
+    Beginnt mit Punkt-Slash (``./``) um den aktuellen Ordner zu denotieren.
+    Order werden im Unix-Style mit einem Forwardslash (``/``) getrennt.
+
+Folgende Keys sind verpflichtend:
+
+``title``
+    Der Name des Levels als ``string``
+
+``track``
+    Der Dateiname für die Musik als ``path``
 
 Aussehen
 --------
@@ -32,27 +46,32 @@ aufgeklappten ASCII-Würfel. Folgende Dekorationen sind definiert:
 ``##``
     Getreidefeld
 
-Der Würfel liegt im Querformat um Zeilen zu sparen. Jede Fläche hat 9x9
-Positionen für Dekorationen, wobei jede Spalte 2 Zellen breit ist, weil eine
-Zelle circa doppelt so hoch wie breit ist. Um die Fläche herum werden die
-Kanten mit Pipe (``|``) und zwei Bindestrichen (``--``) gezeichnet.
-Verdbindungspunkte werden mit einem großen ``O`` oder, bei Punkten in der mitte
-einer Spalte, mit Klammern ``()`` dargestellt.
+Der Würfel wird so aufgeklappt, dass die hintere Seite am Ende ganz rechts
+außen liegt. Jede Fläche hat 9x9 Positionen für Dekorationen, wobei jede Spalte
+2 Zellen breit ist, weil eine Zelle circa doppelt so hoch wie breit ist. Um die
+Fläche herum werden die Kanten mit Pipe (``|``) und zwei Bindestrichen (``--``)
+gezeichnet.  Verdbindungspunkte werden mit einem großen ``O`` oder, bei Punkten
+in der Mitte einer Spalte, mit Klammern ``()`` dargestellt.
 
 Aufbau
 ------
 
-Beschrieben werden in diesem Teil
+Jeder Verbindungspunkt ist eindeutig durch seine anliegenden Flächen
+ansprechbar. Die Flächen werden in der Reihenfolge Front/Back, Left/Right,
+Up/Down angegeben und mit Unterstrich (``_``) getrennt.
 
-- Deaktivierte Verbindungspunkte
-- Fixe Verbindungen
-- Hindernisse
+Um Operationen auf Punkten vorzunehmen wird zuerst das Symbol der Operation und
+danach die benötigte Anzahl der Punkten geschrieben. Folgende Operatoren sind
+definiert:
 
-Jeder Verbindungspunkt (kurz Punkt) ist eindeutig durch seine anliegenden
-Flächen ansprechbar. Die Flächen werden in der Reihenfolge Front/Back,
-Left/Right, Up/Down angegeben und mit Abstand getrennt.
+``!``
+    1 Punkt. Deaktiviert diesen Punkt.
 
-TODO syntax für ausschalten und verbinden
+``--``
+    2 Punkte. Verbindet diese Punkte.
+
+Alle leere Zeilen und Zeilen die mit einer Raute (``#``) beginnen, werden
+ignoriert.
 
 Beispiel
 --------
@@ -93,11 +112,17 @@ Der genaue Aufbau des Würfels wo die Flächen benannt sind.::
 
 Alle Punkte auf der "Front" Fläche::
 
-  front left up
-  front up
-  front right up
-  front left
-  front right
-  front left down
-  front down
-  front right down
+  front_left_up
+  front_up
+  front_right_up
+  front_left
+  front_right
+  front_left_down
+  front_down
+  front_right_down
+
+  -- front_right right_down
+  -- right_down front_down
+  -- front_down front_right
+
+  ! front_right_down
