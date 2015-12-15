@@ -64,11 +64,26 @@ Um Operationen auf Punkten vorzunehmen wird zuerst das Symbol der Operation und
 danach die benötigte Anzahl der Punkten geschrieben. Folgende Operatoren sind
 definiert:
 
-``!``
-    1 Punkt. Deaktiviert diesen Punkt.
+``* source goal``
+    Macht eine Laserquelle aus dem ersten Punkt und das dazugehörige Ziel aus
+    dem zweiten.
 
-``--``
-    2 Punkte. Verbindet diese Punkte.
+``! point``
+    Deaktiviert diesen Punkt.
+
+``-- from to``
+    Erstellt eine fixe Verbindung zwischen den Punkten.
+
+``[] block_from block_to [switch_from switch_to]...``
+    Blockiert Verbindungen zwischen den ersten Punktepaar, außer mindestens
+    einer der Schalter zwischen allen weiteren Punktepaaren hat eine Verbindung
+    auf sich.  Wenn eine Blockade öfters, aber mit verschiedenen Schaltern,
+    platziert wird, muss jeder Schalter betätigt werden um die Blockade zu
+    öffnen.
+
+``% from to``
+    Erstellt einen "Teleporter", eine fixe Verbindung zwischen den Punkten, die
+    auch durch den Würfel gehen kann.
 
 Alle leere Zeilen und Zeilen die mit einer Raute (``#``) beginnen, werden
 ignoriert.
