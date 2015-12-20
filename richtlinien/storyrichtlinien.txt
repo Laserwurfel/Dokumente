@@ -30,7 +30,7 @@ Die Länge des Dialogs variiert von Level zu Level, überschreitet jedoch nie 30
 Plot
 ----
 
-Die Geschichte spielt in dem ehemaigen interstellarem Imperium von Gurstavigstück. 
+Die Geschichte spielt in dem ehemaligen interstellarem Imperium von Gurstavigstück. 
 Nach einer blutigen und langjährigen Revolution ist vieles zerstört,
 inklusive dem Energienetz, welches aus einem einzigen Laserstrahl bestand, 
 der die Energie von Planet zu Planet übertrug. Jetzt muss es vom Spieler repariert werden.
@@ -61,7 +61,7 @@ Beispieldialog
 I wonder what the people eat in this sector of the galaxy. All I see are sheep. Maybe fruit grows on the trees? I should ask him.
 "Sir, I've been wondering, are there any fruits on these trees?"
 "What? Yes there are, but they are extremely poisonous. All the trees here are actually an infestation, one we couldn't get rid of yet. It was the first and last biological attack we suffered from."
-Who was the attacker? The govornment? Well, it doesn't really concern me, so I should just get to work.
+Who was the attacker? The government? Well, it doesn't really concern me, so I should just get to work.
 
  
 
