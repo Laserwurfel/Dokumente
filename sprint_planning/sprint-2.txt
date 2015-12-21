@@ -1,0 +1,24 @@
+Sprint Goal: Grundgerüst + Soundtrack fertig = "Spielbar"
+
+Bis 18. Jänner
+Wir haben offiziell einen Viererblock, haben aber auch über die
+Weihnachtsferien Zeit.
+
+Robin:
+Track Level 3: ~4 Stunden, muss noch recherchieren wie man Techno macht
+Track Endlos
+2 Stunden in den Ferien
+
+Clemens:
+OpenGL und Audio Recherche
+Audio einbinden
+~7 Stunden in den Ferien
+
+Erik:
+Die komplette Story
+~7 Stunden in den Ferien
+
+Jakob:
+3D Modelle einbinden
+Menü einbinden
+~7 Stunden in den Ferien
