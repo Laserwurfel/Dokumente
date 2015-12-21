@@ -1,0 +1,4 @@
+Feinheiten definieren
+
+Soundtrack weil Robin weniger Dev, mehr Sound macht
+Dateiformat nicht weil das Grundgerüst bereits alles in anspruch nimmt
