@@ -1,0 +1,15 @@
+﻿[CONNECTION ESTABLISHED]
+
+“This is planet Fgurbhlporf, are you here to fix the laser?”
+
+“Indeed I am!”
+
+“Great! We've been waiting.”
+
+“No problem. By the way, there's something I'd like to ask… why are there these puzzle like elements on your planets? They don't make this repair job any easier.”
+
+“Yes, they were built by the former Empire during the early stages of the revolution. We don't really know why they are here either…”
+
+[AFTER SUCCESS]
+
+“The lights work again, thanks!”

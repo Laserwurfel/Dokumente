@@ -1,0 +1,19 @@
+﻿[CONNECTION ESTABLISHED]
+
+“Planet Ghurbfurb here, who are you?“
+
+“I'm Horst Gustav, the electrical engineer, I'm here to fix your energy.”
+
+“Took them long enough to send someone… Ever since the revolution, we've been without any electricity.”
+
+“I heard the casualties in the war were very great.”
+
+“They were. Many died… The whole infrastructure broke down… we have to rebuild from the ground up.”
+
+“That's tough. Was the Empire so powerful?”
+
+“Apparently, the freedom fighters had to resort to very drastic measures to insure our independence. We still grieve for our son… Oh, please, don't let me stop you, do what you came for.”
+
+[AFTER SUCCESS]
+
+“The lights work again, thanks!”
