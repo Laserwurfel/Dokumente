@@ -10,9 +10,21 @@
 
 “Yes, I am. Ehm, I don't see any sheep on your planet, could it be that you too need help?”
 
-“Sheep? Sheep are for 
+“Help? Me? Hahaha! You can't help me. All you can do is fulfill your role. You have a predetermined path in front of you, and there is no room for any deviation. But you do not need to worry, your path has been well planned. Just not by you.“
+
+“...Are you saying this repair job is my destiny or something?”
+
+“Destiny? Hmm, you could say that. But even if you can only act according to your destiny, the path will only manifest itself as you walk it.”
+
+“I don't understand what you are trying to say.”
+
+“Hahaha. I'd like to tell you that soon everything will become clear, but I can't guarantee that. It all depends on you. For now, continue on your path.”
+
+[CONNECTION CLOSED]
+
+…?
 
 
 [AFTER SUCCESS]
 
-“Thank you so much! We wouldn't have made it another day, you saved our lives!”
+I don't want to contact that weird all man again...
