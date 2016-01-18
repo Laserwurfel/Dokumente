@@ -2,7 +2,7 @@
 
 [CONNECTION ESTABLISHED]
 
-“Hello, my name is Günther, I am an engineer se-”
+“Hello, my name is Joseph Feldstärke, I am an engineer se-”
 
 “No need for introductions. We are the police of the Republic of Freedom. We noticed that you ask too many questions. Asking questions is not part your the job. You need to stop. Are we clear?”
 
@@ -14,7 +14,6 @@
 
 “Good. We already contacted this planet, you can just start with your work.”
 
-[CONNECTION CLOSED]
 
 [AFTER SUCCESS]
 
