@@ -1,0 +1,19 @@
+Sprint Goal: Grundbausteine für Spiel erstellen
+
+Bis 8. Februar (1. Februar ist frei)
+12 Stunden pro Person
+
+Robin:
+Soundtrack (Track Endlos, Trackliste) fertigstellen bis 25. Jänner
+Brainstorming zu allen Dekorationen bis 25. Jänner
+Design (Dekorationen zu 75%)
+
+Erik:
+Brainstorming zu allen Spielelementen bis 25. Jänner
+Design (Spielelemente zu 75%)
+
+Clemens:
+Levelformat Parser
+
+Jakob:
+Menü
