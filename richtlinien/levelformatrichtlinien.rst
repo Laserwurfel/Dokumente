@@ -91,7 +91,7 @@ ignoriert.
 Beispiel
 --------
 
-Der genaue Aufbau des Würfels wo die Flächen benannt sind:
+Der genaue Aufbau des Würfels wo die Flächen benannt sind::
 
                      O--------()--------O
                      |                  |
