@@ -57,8 +57,9 @@ Aufbau
 ------
 
 Jeder Verbindungspunkt ist eindeutig durch seine anliegenden Flächen
-ansprechbar. Die Flächen werden in der Reihenfolge Front/Back, Left/Right,
-Up/Down angegeben und mit Unterstrich (``_``) getrennt.
+ansprechbar. Die Flächen werden in der Reihenfolge ``front``/``back``,
+``left``/``right``, ``bottom``/``top`` angegeben und mit Unterstrich (``_``)
+getrennt.
 
 Um Operationen auf Punkten vorzunehmen wird zuerst das Symbol der Operation und
 danach die benötigte Anzahl der Punkten geschrieben. Folgende Operatoren sind
@@ -98,7 +99,7 @@ Der genaue Aufbau des Würfels wo die Flächen benannt sind::
                      |                  |
                      |                  |
                      |                  |
-                     O        up        O
+                     O       top        O
                      |                  |
                      |                  |
                      |                  |
@@ -118,7 +119,7 @@ Der genaue Aufbau des Würfels wo die Flächen benannt sind::
                      |                  |
                      |                  |
                      |                  |
-                     O       down       O
+                     O      bottom      O
                      |                  |
                      |                  |
                      |                  |
@@ -127,17 +128,17 @@ Der genaue Aufbau des Würfels wo die Flächen benannt sind::
 
 Alle Punkte auf der "Front" Fläche:
 
-  front_left_up
-  front_up
-  front_right_up
+  front_left_top
+  front_top
+  front_right_top
   front_left
   front_right
-  front_left_down
-  front_down
-  front_right_down
+  front_left_bottom
+  front_bottom
+  front_right_bottom
 
-  -- front_right right_down
-  -- right_down front_down
-  -- front_down front_right
+  -- front_right right_bottom
+  -- right_bottom front_bottom
+  -- front_bottom front_right
 
-  ! front_right_down
+  ! front_right_bottom

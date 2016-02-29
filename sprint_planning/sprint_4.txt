@@ -1,0 +1,18 @@
+Sprint Goal: OpenGL Grundgerüst
+
+Bis 7. März
+3 Stunden zusätzslich zu Schulstunden pro Person
+
+Robin:
+10 Levels entwerfen
+
+Erik:
+Steuerung
+ - Events bei Taste
+ - Tasten zuweisen über Menü
+
+Clemens:
+Würfel anzeigen lassen und drehen können
+
+Jakob:
+Menüs
