@@ -1,0 +1,4 @@
+http://www.panda3d.org/
+http://pyopengl.sourceforge.net/ ??
+https://vispy.readthedocs.org/en/v0.2.1/gloo.html
+http://www.godotengine.org/
