@@ -1,0 +1,7 @@
+Eigener Editor
+Import Blender Dateien
+"Python-Like"
+C++ API
+X Platform
+Kein WX
+Wie Blender
