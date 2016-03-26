@@ -1,0 +1,48 @@
+Steuerungsmenü (Hauptmenü -> Settings -> Controls)
+
+Ausgangssituation:
+Frisch geklontes Repository
+
+Test: Allgemeine Funktion
+
+Es wird eine repräsentative Menge (etwa ein Fünftel) jeder Klasse von Tasten der Tastatur, sowie jede Aktion einmal getestet (Nicht in Kombination). Klassen sind z.B. Buchstaben, Umlaute, Zahlen, Sondertasten, Numpad, Pfeiltasten, F1 bis F12, etc.
+
+Erwartung:
+Nur alphanumerische Werte (exklusive Umlaute) werden akzeptiert, inkl. den Zahlen des Numpads.
+Akzeptierte Werte werden umgehend in die config.cfg Datei geschrieben.
+Nicht akzeptierte Werte setzen den Button auf den vorherigen Wert zurück.
+
+1. Testlauf
+Ergebnis: 
+Ein paar Tasten wie z.B. AltGr un Fn lösen kein Button Event aus.
+Systemtasten wie zb. die Windows Taste lösen zusätzlich die normale Systemreaktion aus.
+Numpad Tasten funktionieren NICHT.
+
+Das einzige, das verbessert werden muss, sind die Numpad Tasten, der Rest ist vernachlässigbar.
+
+2. Testlauf
+Ergebnis:
+Der oben genannte Fehler ist behoben. Alles funktioniert erwartungsgemäß.
+
+
+Test: Unerwartetes Userverhalten
+
+Situation: User verwendet die selbe Taste für zwei Bindings.
+Erwartung: Beide Buttons werden rot hinterlegt.
+Ergebnis: Erwartetes Verahalten.
+
+Situation: User klickt nochmals auf einen Button der bereits auf eine neue Belegung wartet.
+Erwartung: Nicht passiert.
+Ergebnis: Erwartetes Verahalten.
+
+Situation: User klickt auf einen Button während bereits ein anderer auf eine neue Belegung wartet.
+Erwartung: Alter Button wird zurückgesetzt, neuer wird auf Neubelegung vorbereitet.
+Ergebnis: Erwartetes Verahalten.
+
+Situation: User verlässt das Controls Menü während ein Button auf Neubelegung wartet.
+Erwartung: Button wird zurückgesetzt.
+Ergebnis: Erwartetes Verahalten.
+
+
+FAZIT:
+Das Steuerungsmenü funktioniert erwartungsgemäß.
