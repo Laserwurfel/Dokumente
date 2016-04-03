@@ -1,0 +1,22 @@
+Keybinding Events
+
+Ausgangssituation:
+Frisch geklontes Repository
+
+Test: Tastatur
+
+Situation: User drückt Tasten die im Controlsmenü spezifiziert wurden.
+Erwartung: Entsprechende Funktion wird ausgeführt (Print auf Konsole).
+Ergebnis: Erwartetes Verhalten.
+
+Situation: User drückt Taste der mehrere Aktionen zugewiesen wurde.
+Erwartung: Nichts passiert.
+Ergebnis: Erwartetes Verhalten.
+
+Situation: User betätigt linke oder rechte Maustaste.
+Erwartung: Entsprechende Funktion wird ausgeführt (Print auf Konsole).
+Ergebnis: Erwartetes Verhalten.
+
+Situation: User hält die linke Maustaste gedrückt und bewegt die Maus.
+Erwartung: Entsprechende Funktion wird ausgeführt (periodischer Print auf Konsole mit Mausposition).
+Ergebnis: Erwartetes Verhalten.
