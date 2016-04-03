@@ -1,4 +1,4 @@
-Sprintabnahme: 4. April 2016 nach Christus
+Sprintabnahme: Mit der Abnahme des Projekts
 Ziel: Fast alles fertig, rudimentär spielbar
 Richtwert: 10 Stunden pro Person
 
