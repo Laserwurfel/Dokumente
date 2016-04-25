@@ -1,0 +1,4 @@
+Jakob: PM, Management allgemein
+Clemens: Umsetzung Techonologie, sowie Leveldatenformat
+Erik: Story und Spielmodelle
+Robin: Musik und Dekomodelle

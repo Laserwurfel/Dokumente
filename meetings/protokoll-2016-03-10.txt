@@ -1,0 +1,23 @@
+Datum: 10. März 2016
+Teilnehmer: Jakob Bal, Clemens Stadlbauer, Erik Ritschl, Robin Kaggl
+
+Problem:
+
+OpenGL Bindings funktionieren nicht
+
+Lösungsansätze:
+
+Teil auf andere Sprache auslagern, wahrscheinlich C
+Glitter Library -> Nicht installierbar?
+Ältere OpenGL Version
+Engine (zb PyGame)
+
+Zu C:
+Evt. Lässt sich Memory Management mit Python erledigen, und nur Main Loop in C laufen lassen
+
+~ Todo ~
+
+Erik: PyGame recherchieren
+Clemens: Schauen wie weit man C isolieren kann
+Jakob: Mail schreiben
+Robin: Müssen alle Punkte im Netz sein?

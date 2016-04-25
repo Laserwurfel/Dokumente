@@ -1,0 +1,28 @@
+Sprintabnahme: Mit der Abnahme des Projekts
+Ziel: Fast alles fertig, rudimentär spielbar
+Richtwert: 10 Stunden pro Person
+
+
+Alle müssen Panda 3D lernen.
+Circa Ende der Woche (Freitag zB) gibt es eine Konferenz
+Es muss getestet werden und Testprotokolle erstellt werden.
+Es wird ein 9*9 Grid verwendet
+
+User Story: Kampagne
+
+Robin:
+Einführungslevel erstellen
+Macht Level fertig und testet
+Modelle skalieren
+
+
+Erik:
+Steuerung Events feuern
+Modelle korrekt skalieren
+Hilfe bei Spielmechaniken
+
+Clemens:
+Ansicht, Kamerabewegung, Steuerungsfunktionalität
+
+Jakob:
+Verbindungspunkte und Spielmechaniken

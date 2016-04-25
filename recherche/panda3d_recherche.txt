@@ -1,0 +1,21 @@
+Panda 3D
+
+Gameengine für Python und C++. Open-Source. Git-Hub Repository ist aktuell.
+
+VT:
+SDK auf allen Betriebssytemen verfügbar.
+Simple Installation auf allen Betriebssytemen.
+Große Community und Tutorials
+Beispiel:
+http://research.cs.wisc.edu/graphics/Courses/559-f2007/wiki/pub/tutorials/tutPanda/pandaManual.pdf
+http://panda3d-ger.wikidot.com/kollisionen
+
+NT:
+Kein Support für PyAudio – möglich => PyAudio muss verworfen werden
+Möglich: Fehlender Support für wxPython? => Kann sein, dass das GUI neugeschrieben werden muss
+Komplexe Schattenberechnungen
+Wenig eingebaute Shader
+
+Resümee
+Panda3D ist eine gute Gameengine um das Spiel umzusetzen. Jedoch muss das Team die gesamte Engine lernen. Das Projekt ist nur in seinem Umfang umsetzbar, wenn in den Osterferien viel Zeit investiert wird.
+
