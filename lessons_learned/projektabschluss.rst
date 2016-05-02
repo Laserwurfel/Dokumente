@@ -6,7 +6,7 @@ Aufgrund von Stress ist Clemens von seiner Position zurückgetreten. Dieser Stre
 Früher über den Stress bekannt geben, damit Gegenmaßnahmen gesetzt werden können.
 Falls es wirklich zu einem Wechsel kommen sollte, wäre in diesem Fall eine Übergangszeit notwendig gewesen, da das Team erst beim Wechsel selbst über die Gründe informiert wurde.
 
-Probleme wie dieses wurden viel zu wenig im Projekt kommuniziert.
+Probleme wie dieses wurden viel zu wenig im Projekt kommuniziert. Damit solch ein Problem verhindert werden kann, müssen starke Belastungen vom Teammitglied selbst früher bekanntgegeben werden, damit korrekte Gegenmaßnahmen gesetzt werden können. Beispielsweise werden die Aufgaben auf die anderen Mitarbeiter verteilt.
 
 Positiv war die Verwendung vom Projektmanagementtool Taiga. Dadruch war es möglich das Sprint Backlog und die dazugehörigen User Stories einfach und schnell zu verwalten. Durch die Möglichkeit dieser User Stories in Subtasks aufzuteilen, hat jedes Teammitglied gewusst, was seine Aufgaben für den Sprint sind. Auch der Auftraggeber profitiert davon, da diese Person immer weiß welcher Mitarbeiter welche Aufgaben abarbeitet.
 
