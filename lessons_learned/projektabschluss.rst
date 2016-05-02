@@ -8,6 +8,8 @@ Falls es wirklich zu einem Wechsel kommen sollte, wäre in diesem Fall eine Übe
 
 Probleme wie dieses wurden viel zu wenig im Projekt kommuniziert. Damit solch ein Problem verhindert werden kann, müssen starke Belastungen vom Teammitglied selbst früher bekanntgegeben werden, damit korrekte Gegenmaßnahmen gesetzt werden können. Beispielsweise werden die Aufgaben auf die anderen Mitarbeiter verteilt.
 
+Prototyp ist zu spät entstanden, wodurch wir sehr spät erst die Probleme mit OpenGL erkannt haben.
+
 Positiv war die Verwendung vom Projektmanagementtool Taiga. Dadruch war es möglich das Sprint Backlog und die dazugehörigen User Stories einfach und schnell zu verwalten. Durch die Möglichkeit dieser User Stories in Subtasks aufzuteilen, hat jedes Teammitglied gewusst, was seine Aufgaben für den Sprint sind. Auch der Auftraggeber profitiert davon, da diese Person immer weiß welcher Mitarbeiter welche Aufgaben abarbeitet.
 
 OpenGL
